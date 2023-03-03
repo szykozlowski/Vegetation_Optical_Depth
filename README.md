@@ -4,6 +4,10 @@ These are some files from the work I did during my Summer internship.  My work f
 
 VOD is a releively new technology, which functions based on microwaves emitted from a satellite.  Observing the frequency and strength of these microwaves can give important insight into many aspects of vegetation.  In my research, I was focusing on the relationship between VOD data, and the Volumetric Water Content (VWC) of soil.
 
+The primary goal was to visualize and project files containing VOD (Vegetation Optical Depth) and TDR (Time Domain Reflectrometry) data.
+
+Then, the emprical differences between the two methods of collecting soil moisture data were compared to eachother to determine the validity of VOD data.
+
 ## TDR vs VOD
 
 In order to verify the validity of VOD data, I compared it to data collected through "Time Domain Reflectrometry" (TDR).  TDR is known to be very accurate, as it is data collected directly from the plants through the use of electric frequencies.
